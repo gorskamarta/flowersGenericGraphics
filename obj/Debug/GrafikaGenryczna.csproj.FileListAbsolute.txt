@@ -1,0 +1,10 @@
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\bin\Debug\GrafikaGenryczna.exe.config
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\bin\Debug\GrafikaGenryczna.exe
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\bin\Debug\GrafikaGenryczna.pdb
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\obj\Debug\GrafikaGenryczna.csprojResolveAssemblyReference.cache
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\obj\Debug\GrafikaGenryczna.Form1.resources
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\obj\Debug\GrafikaGenryczna.Properties.Resources.resources
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\obj\Debug\GrafikaGenryczna.csproj.GenerateResource.Cache
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\obj\Debug\GrafikaGenryczna.csproj.CoreCompileInputs.cache
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\obj\Debug\GrafikaGenryczna.exe
+D:\ZaawansowaneProgramowanieObiektowe\Zaliczenie\GrafikaGenryczna\GrafikaGenryczna\obj\Debug\GrafikaGenryczna.pdb
